@@ -12,3 +12,5 @@ ADP output is .ADP. SonTek ViewADP software exports 3 velocity files (.VE,.VN,.V
 1. Run all cells
 1. output CSV file is named same as the sig_amplitude filename with "done" at end.
 
+[ADP glob csv](https://github.com/mlmldata2017/ADP-project/blob/master/ADP%20glob%20csv.ipynb) takes all .csv files in path and appends them
+
