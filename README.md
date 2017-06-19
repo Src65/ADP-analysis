@@ -10,5 +10,5 @@ ADP output is .ADP. SonTek ViewADP software exports 3 velocity files (.VE,.VN,.V
 1. Import pandas and numpy.
 1. Define path, sig_amp as .a file, VE_file as .ve file, VN_file as .ve file. 
 1. Run all cells
-
+1. output CSV file is named same as the sig_amplitude filename with "done" at end.
 
